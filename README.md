@@ -9,7 +9,7 @@ This script is based on DIETPI v7.5. DietPi master is currently on v8.12. After 
  
 Those who want to get started quickly and conveniently may install DietPi for ionos/vm using the following commands:
 
-`wget https://raw.githubusercontent.com/Pieloaf/Debian-DietPi-Install-Script/main/debian-dietpi-install.sh`
+`wget https://raw.githubusercontent.com/shobalpeng/Debian-DietPi-Install-Script/main/debian-dietpi-install.sh`
 
 `chmod +x debian-dietpi-install.sh`
 
